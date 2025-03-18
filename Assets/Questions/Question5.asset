@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question5
   m_EditorClassIdentifier: 
   question: What is not a The Erudition Path character in the Honkai:Star Rail
+  answers:
+  - The Herta
+  - Rappa
+  - Firefly
+  - Anaxa
+  correctAnswerIndex: 2

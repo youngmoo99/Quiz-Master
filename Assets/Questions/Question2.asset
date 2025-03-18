@@ -10,6 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b95c7803e1c65fe49a2790b9ebdc569e, type: 3}
-  m_Name: Question4
+  m_Name: Question2
   m_EditorClassIdentifier: 
-  question: What is not a Quantum Combat Type character in the Honkai:Star Rail
+  question: What is not a bow character in the GenshinImpact
+  answers:
+  - Yoimiya
+  - Tighnari
+  - Venti
+  - Keqing
+  correctAnswerIndex: 3
